@@ -1,0 +1,450 @@
+[
+    {
+      "nome": "Shelly",
+      "hp": 7400,
+      "emoji": "shelly.webp"
+    },
+    {
+      "nome": "Nita",
+      "hp": 8000,
+      "emoji": "nita.webp"
+    },
+    {
+        "nome": "Finx",
+        "hp": 7200,
+        "emoji": "finx.png"
+      },
+    {
+        "nome": "Ollie-G",
+        "hp": 11200,
+        "emoji": "ollie.png"
+      },
+    {
+      "nome": "Colt",
+      "hp": 5600,
+      "emoji": "colt.png"
+    },
+    {
+      "nome": "Bull",
+      "hp": 10000,
+      "emoji": "bull.png"
+    },
+    {
+      "nome": "Jessie",
+      "hp": 6000,
+      "emoji": "jessie.png"
+    },{
+        "nome": "R-t",
+        "hp": 7800,
+        "emoji": "rt.png"
+      },
+    {
+      "nome": "Brock",
+      "hp": 5400,
+      "emoji": "brock.png"
+    },
+    {
+        "nome": "melodie",
+        "hp": 7200,
+        "emoji": "melodie.png"
+      },
+    {
+        "nome": "Mico",
+        "hp": 6600,
+        "emoji": "mico.png"
+      },
+    {
+        "nome": "Mister P",
+        "hp": 6800,
+        "emoji": "misterp.png"
+      },
+
+      {
+        "nome": "Kenji",
+        "hp": 7600,
+        "emoji": "kenji.png"
+      },
+    {
+      "nome": "Dynamike",
+      "hp": 5600,
+      "emoji": "dyna.png"
+    },
+    {
+      "nome": "Bo",
+      "hp": 7200,
+      "emoji": "bo.png"
+    },
+    {
+      "nome": "Tick",
+      "hp": 4400,
+      "emoji": "tick.png"
+    },
+    {
+        "nome": "willow",
+        "hp": 5600,
+        "emoji": "willow.png"
+      },
+    {
+      "nome": "8-Bit",
+      "hp": 10000,
+      "emoji": "8-BIT.webp"
+    },
+    {
+      "nome": "Emz",
+      "hp": 7200,
+      "emoji": "emz.png"
+    },
+    {
+      "nome": "El Primo",
+      "hp": 11200,
+      "emoji": "primo.png"
+    },
+    {
+      "nome": "Barley",
+      "hp": 4800,
+      "emoji": "barley.png"
+    },
+    {
+      "nome": "Poco",
+      "hp": 7400,
+      "emoji": "poco.png"
+    },
+    {
+      "nome": "Rosa",
+      "hp": 10000,
+      "emoji": "rosa.png"
+    
+    },
+    {
+        "nome": "Doug",
+        "hp": 10000,
+        "emoji": "doug.png"
+      },
+    {
+      "nome": "Rico",
+      "hp": 5600,
+      "emoji": "rico.png"
+    },
+    {
+      "nome": "Darryl",
+      "hp": 10600,
+      "emoji": "darryl.png"
+    },
+    {
+        "nome": "pearl",
+        "hp": 7800,
+        "emoji": "pearl.png"
+      },
+    {
+      "nome": "Penny",
+      "hp": 6400,
+      "emoji": "penny.png"
+    },
+    {
+      "nome": "Carl",
+      "hp": 8000,
+      "emoji": "carl.png"
+    },
+    {
+      "nome": "Piper",
+      "hp": 4600,
+      "emoji": "piper.png"
+    },
+    {
+      "nome": "Pam",
+      "hp": 9600,
+      "emoji": "pam.png"
+    },
+    {
+      "nome": "Frank",
+      "hp": 13400,
+      "emoji": "frank.png"
+    },
+    {
+      "nome": "Bibi",
+      "hp": 9600,
+      "emoji": "bibi.png"
+    },
+    {
+      "nome": "Bea",
+      "hp": 5000,
+      "emoji": "bea.png"
+    },
+    {
+      "nome": "Nani",
+      "hp": 4800,
+      "emoji": "nani.png"
+    },
+    {
+      "nome": "Mortis",
+      "hp": 7600,
+      "emoji": "mortis.png"
+    },
+    {
+      "nome": "Tara",
+      "hp": 6200,
+      "emoji": "tara.webp"
+    },
+    {
+      "nome": "Gene",
+      "hp": 7200,
+      "emoji": "genio.png"
+    },
+    {
+      "nome": "Max",
+      "hp": 6600,
+      "emoji": "max.png"
+    },
+    {
+      "nome": "Sprout",
+      "hp": 6000,
+      "emoji": "sprout.png"
+    },
+    {
+      "nome": "Spike",
+      "hp": 5400,
+      "emoji": "spike.webp"
+    }, {
+        "nome": "Cordelius",
+        "hp": 6400,
+        "emoji": "cordelius.png"
+      },
+    {
+      "nome": "Crow",
+      "hp": 4800,
+      "emoji": "corvo.png"
+    },
+    {
+      "nome": "Leon",
+      "hp": 6800,
+      "emoji": "leon.png"
+    },
+    {
+      "nome": "Sandy",
+      "hp": 7600,
+      "emoji": "sandy.png"
+    },
+    {
+      "nome": "Gale",
+      "hp": 7600,
+      "emoji": "gale.png"
+    },
+    {
+      "nome": "Surge",
+      "hp": 6000,
+      "emoji": "surge.png"
+    },
+    {
+        "nome": "Byron",
+        "hp": 4800,
+        "emoji": "byron.jpeg"
+      },
+    
+    {
+      "nome": "Colette",
+      "hp": 6800,
+      "emoji": "colette.png"
+    },{
+        "nome": "Berry",
+        "hp": 5000,
+        "emoji": "berry.png"
+      },
+
+      {
+        "nome": "Meg",
+        "hp": 4600,
+        "emoji": "meg.png"
+      }, {
+        "nome": "meg-robo",
+        "hp": 7000,
+        "emoji": "meg.png"
+      },
+
+    {
+      "nome": "Amber",
+      "hp": 6400,
+      "emoji": "amber.png"
+    },
+    {
+      "nome": "Lou",
+      "hp": 6400,
+      "emoji": "lou.png"
+    },{
+        "nome": "Shade",
+        "hp": 7000,
+        "emoji": "shade.png"
+      },
+      {
+        "nome": "Meeple",
+        "hp": 6000,
+        "emoji": "meeple.jpeg"
+      },
+    {
+      "nome": "Ash",
+      "hp": 10800,
+      "emoji": "ash.png"
+    },
+    {
+      "nome": "Colonel Ruffs",
+      "hp": 5600,
+      "emoji": "ruffs.png"
+    },{
+        "nome": "larry",
+        "hp": 5600,
+        "emoji": "larry.png"
+      },
+    {
+      "nome": "Lola",
+      "hp": 7600,
+      "emoji": "lola.png"
+    },
+    {
+      "nome": "Belle",
+      "hp": 5200,
+      "emoji": "belle.png"
+    }, {
+        "nome": "Kit",
+        "hp": 6000,
+        "emoji": "kit.png"
+      },
+    {
+      "nome": "Squeak",
+      "hp": 7200,
+      "emoji": "squek.png"
+    },
+    {
+      "nome": "Buzz",
+      "hp": 9600,
+      "emoji": "buzz.png"
+    },
+    {
+      "nome": "Griff",
+      "hp": 6800,
+      "emoji": "griff.png"
+    },
+    {
+      "nome": "Grom",
+      "hp": 5600,
+      "emoji": "grom.png"
+    },{
+        "nome": "Angelo",
+        "hp": 6000,
+        "emoji": "angelo.png"
+      },
+    {
+      "nome": "Fang",
+      "hp": 8600,
+      "emoji": "fang.png"
+    },
+    {
+      "nome": "Eve",
+      "hp": 5800,
+      "emoji": "eve.png"
+    },
+    {
+      "nome": "Edgar",
+      "hp": 6600,
+      "emoji": "edgar.png"
+    },
+    {
+        "nome": "Draco",
+        "hp": 11000,
+        "emoji": "draco.png"
+      },
+    {
+      "nome": "Janet",
+      "hp": 6400,
+      "emoji": "janet.png"
+    },
+    {
+      "nome": "Bonnie",
+      "hp": 9600,
+      "emoji": "bonnie.png"
+    },
+    {
+      "nome": "Otis",
+      "hp": 6400,
+      "emoji": "otis.jpeg"
+    },
+    {
+      "nome": "Sam",
+      "hp": 10800,
+      "emoji": "sam.png"
+    },
+    {
+      "nome": "Gus",
+      "hp": 6400,
+      "emoji": "gus.png"
+    },
+    {
+      "nome": "Buster",
+      "hp": 10000,
+      "emoji": "buster.png"
+    },
+    {
+      "nome": "Mandy",
+      "hp": 5600,
+      "emoji": "mandy.png"
+    },
+    {
+      "nome": "Maisie",
+      "hp": 7200,
+      "emoji": "maisie.png"
+    },
+    {
+        "nome": "Juju",
+        "hp": 6000,
+        "emoji": "juju.png"
+      },
+    {
+        "nome": "Moe",
+        "hp": 6800,
+        "emoji": "moe.png"
+      },
+    {
+        "nome": "Clancy",
+        "hp": 6600,
+        "emoji": "clancy.png"
+      },
+    {
+      "nome": "Hank",
+      "hp": 11200,
+      "emoji": "hank.png"
+    },{
+        "nome": "Lily",
+        "hp": 8200,
+        "emoji": "lily.png"
+      },
+    {
+        "nome": "Charlie",
+        "hp": 7000,
+        "emoji": "charlie.png"
+      },
+    
+    {
+        "nome": "Chuck",
+        "hp": 9000,
+        "emoji": "chuck.png"
+      },
+    {
+      "nome": "Chester",
+      "hp": 7000,
+      "emoji": "chester.png"
+    },
+    {
+      "nome": "Grey",
+      "hp": 6600,
+      "emoji": "gray.png"
+    },
+    {
+      "nome": "Jacky",
+      "hp": 10000,
+      "emoji": "jack.png"
+    },
+    {
+      "nome": "Stu",
+      "hp": 6400,
+      "emoji": "stu.png"
+    }
+  ]
+  
